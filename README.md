@@ -17,7 +17,7 @@ Amateur doctors and misdiagnosis are the leading cause of deaths in India. Deep-
 ## Dataset
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
-## Dependancies
+## Dependencies
 1) Flask
 2) Tensorflow
 3) Keras
